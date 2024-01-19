@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.navi{
+
+    padding: 15px;
+    font-size: 50px;
+    background-color: rgb(17, 16, 16);
+    color: aquamarine;
+    border-bottom: 2px solid black;
+}
+#box{
+    text-align: center;
+    border-radius: 15px;
+    border-color: black;
+    border: solid;
+    background-color: black;
+    display: inline-block;
+    padding: 50px;
+    margin-top: 500px;
+    margin-left: 1000px;
+}
+#box h1{
+    color: aliceblue;
+    font-size: 100px;
+}
+#btn{
+    margin-top: 70px;
+    padding: 30px;
+    font-size: 30px;
+}
+body{
+    background-color: white;
+}
